@@ -1,0 +1,12 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "packageManager": "yarn@3.4.1",
+  "devDependencies": {
+    "git-cz": "^4.9.0"
+  }
+}
