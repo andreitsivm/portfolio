@@ -16,5 +16,8 @@
   },
   "scripts": {
     "cz": "git-cz"
+  },
+  "dependencies": {
+    "@mui/base": "^5.0.0-alpha.119"
   }
 }
